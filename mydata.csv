@@ -1,0 +1,197 @@
+,Country,rate_female,rate_male,category
+0,Global,-1.7,-1.3,Female_decrease male_decrease
+1,Afghanistan,0.1,0.5,Female_increase male_increase
+2,Albania,0.0,-0.5,Female_decrease male_decrease
+3,Algeria,-5.3,-1.2,Female_decrease male_decrease
+4,American Samoa,-0.1,-0.4,Female_decrease male_decrease
+5,Andorra,-0.5,-1.0,Female_decrease male_decrease
+6,Angola,-0.7,0.5,Female_decrease male_increase
+7,Antigua and Barbuda,1.4,0.6,Female_increase male_increase
+8,Argentina,-1.1,-1.0,Female_decrease male_decrease
+9,Armenia,0.3,0.0,Female_decrease male_decrease
+10,Australia,-2.1,-1.9,Female_decrease male_decrease
+11,Austria,0.3,-0.3,Female_increase male_decrease
+12,Azerbaijan,1.1,0.9,Female_increase male_increase
+13,Bahrain,-0.2,-1.3,Female_decrease male_decrease
+14,Bangladesh,-2.9,0.3,Female_decrease male_increase
+15,Barbados,1.3,0.3,Female_increase male_increase
+16,Belarus,0.7,-0.8,Female_increase male_decrease
+17,Belgium,-1.1,-1.6,Female_decrease male_decrease
+18,Belize,-0.9,-1.0,Female_decrease male_decrease
+19,Benin,-3.8,-0.8,Female_decrease male_decrease
+20,Bermuda,-1.1,-1.0,Female_decrease male_decrease
+21,Bhutan,0.3,-0.5,Female_increase male_decrease
+22,Bolivia,-1.1,-0.3,Female_decrease male_decrease
+23,Bosnia and Herzegovina,0.5,0.2,Female_increase male_increase
+24,Botswana,-1.0,-0.4,Female_decrease male_decrease
+25,Brazil,-3.3,-3.3,Female_decrease male_decrease
+26,Brunei,-0.3,-0.7,Female_decrease male_decrease
+27,Bulgaria,0.6,-0.6,Female_increase male_decrease
+28,Burkina Faso,-1.0,-0.6,Female_decrease male_decrease
+29,Burundi,-1.1,-0.9,Female_decrease male_decrease
+30,Cambodia,-1.8,-1.0,Female_decrease male_decrease
+31,Cameroon,-1.5,-1.1,Female_decrease male_decrease
+32,Canada,-2.8,-2.5,Female_decrease male_decrease
+33,Cape Verde,-0.9,-0.6,Female_decrease male_decrease
+34,Central African Republic,-0.8,0.3,Female_decrease male_increase
+35,Chad,-0.8,-0.2,Female_decrease male_decrease
+36,Chile,0.9,0.3,Female_increase male_increase
+37,China,-2.6,-1.0,Female_decrease male_decrease
+38,Colombia,-2.2,-1.8,Female_decrease male_decrease
+39,Comoros,-0.8,-0.2,Female_decrease male_decrease
+40,Congo (Brazzaville),0.5,0.9,Female_increase male_increase
+41,Costa Rica,-1.1,-1.8,Female_decrease male_decrease
+42,CÃ´te d'Ivoire,-2.4,0.8,Female_decrease male_increase
+43,Croatia,0.0,-0.9,Female_decrease male_decrease
+44,Cuba,-2.3,-2.0,Female_decrease male_decrease
+45,Cyprus,0.5,0.5,Female_increase male_increase
+46,Czech Republic,-0.5,-0.6,Female_decrease male_decrease
+47,Democratic Republic of the Congo,-1.0,-0.1,Female_decrease male_decrease
+48,Denmark,-3.0,-3.0,Female_decrease male_decrease
+49,Djibouti,0.0,-0.5,Female_decrease male_decrease
+50,Dominica,-0.9,-0.7,Female_decrease male_decrease
+51,Dominican Republic,-2.7,-2.4,Female_decrease male_decrease
+52,Ecuador,-1.8,-2.3,Female_decrease male_decrease
+53,Egypt,-0.9,0.2,Female_decrease male_increase
+54,El Salvador,-1.0,-0.3,Female_decrease male_decrease
+55,Equatorial Guinea,-0.4,0.0,Female_decrease male_decrease
+56,Eritrea,-1.7,-0.9,Female_decrease male_decrease
+57,Estonia,-0.7,-0.9,Female_decrease male_decrease
+58,Ethiopia,-1.5,-0.4,Female_decrease male_decrease
+59,Federated States of Micronesia,-0.2,-0.5,Female_decrease male_decrease
+60,Fiji,-0.2,-0.5,Female_decrease male_decrease
+61,Finland,-0.4,-1.4,Female_decrease male_decrease
+62,France,-0.6,-1.5,Female_decrease male_decrease
+63,Gabon,-0.2,0.4,Female_decrease male_increase
+64,Georgia,-0.1,0.5,Female_decrease male_increase
+65,Germany,-0.3,-0.9,Female_decrease male_decrease
+66,Ghana,-0.8,-1.1,Female_decrease male_decrease
+67,Greece,0.5,-0.8,Female_increase male_decrease
+68,Greenland,-0.8,-1.0,Female_decrease male_decrease
+69,Grenada,-0.6,0.3,Female_decrease male_increase
+70,Guam,-1.0,-0.9,Female_decrease male_decrease
+71,Guatemala,-1.0,0.3,Female_decrease male_increase
+72,Guinea,-1.0,-0.6,Female_decrease male_decrease
+73,Guinea-Bissau,-0.9,-0.3,Female_decrease male_decrease
+74,Guyana,-0.9,0.8,Female_decrease male_increase
+75,Haiti,-1.5,-2.6,Female_decrease male_decrease
+76,Honduras,-3.2,-1.0,Female_decrease male_decrease
+77,Hungary,-0.1,-1.1,Female_decrease male_decrease
+78,Iceland,-2.8,-2.8,Female_decrease male_decrease
+79,India,-0.3,-2.1,Female_decrease male_decrease
+80,Indonesia,1.8,0.2,Female_increase male_increase
+81,Iran,-0.8,0.1,Female_decrease male_increase
+82,Iraq,0.1,-0.4,Female_increase male_decrease
+83,Ireland,-0.5,-1.4,Female_decrease male_decrease
+84,Israel,-1.6,-1.2,Female_decrease male_decrease
+85,Italy,-0.9,-1.1,Female_decrease male_decrease
+86,Jamaica,0.2,-1.4,Female_increase male_decrease
+87,Japan,-0.7,-2.4,Female_decrease male_decrease
+88,Jordan,-0.4,-0.1,Female_decrease male_decrease
+89,Kazakhstan,0.4,-0.1,Female_increase male_decrease
+90,Kenya,-1.7,-0.8,Female_decrease male_decrease
+91,Kiribati,-0.6,-0.3,Female_decrease male_decrease
+92,Kuwait,3.6,-0.6,Female_increase male_decrease
+93,Kyrgyzstan,2.9,0.2,Female_increase male_increase
+94,Laos,-0.1,-0.3,Female_decrease male_decrease
+95,Latvia,0.2,0.1,Female_increase male_increase
+96,Lebanon,-0.2,-1.7,Female_decrease male_decrease
+97,Lesotho,-1.9,-0.4,Female_decrease male_decrease
+98,Liberia,-2.5,-0.6,Female_decrease male_decrease
+99,Libya,-0.3,0.2,Female_decrease male_increase
+100,Lithuania,0.2,-0.4,Female_increase male_decrease
+101,Luxembourg,-0.7,-0.9,Female_decrease male_decrease
+102,Macedonia,1.0,0.4,Female_increase male_increase
+103,Madagascar,-3.8,-1.6,Female_decrease male_decrease
+104,Malawi,-1.7,-1.2,Female_decrease male_decrease
+105,Malaysia,-1.7,-0.7,Female_decrease male_decrease
+106,Maldives,-1.2,0.7,Female_decrease male_increase
+107,Mali,-4.6,0.2,Female_decrease male_increase
+108,Malta,-1.4,-1.9,Female_decrease male_decrease
+109,Marshall Islands,-0.5,-0.7,Female_decrease male_decrease
+110,Mauritania,-0.7,-0.2,Female_decrease male_decrease
+111,Mauritius,-0.8,-1.0,Female_decrease male_decrease
+112,Mexico,-3.2,-2.5,Female_decrease male_decrease
+113,Moldova,0.4,-0.9,Female_increase male_decrease
+114,Mongolia,0.4,-0.3,Female_increase male_decrease
+115,Montenegro,1.7,0.9,Female_increase male_increase
+116,Morocco,-2.5,-1.3,Female_decrease male_decrease
+117,Mozambique,-1.5,-0.5,Female_decrease male_decrease
+118,Myanmar,-1.3,-1.6,Female_decrease male_decrease
+119,Namibia,-1.8,-1.1,Female_decrease male_decrease
+120,Nepal,-2.5,-1.7,Female_decrease male_decrease
+121,Netherlands,-1.7,-1.8,Female_decrease male_decrease
+122,New Zealand,-1.8,-1.5,Female_decrease male_decrease
+123,Nicaragua,-0.6,-0.9,Female_decrease male_decrease
+124,Niger,-1.9,0.7,Female_decrease male_increase
+125,Nigeria,-4.4,-3.2,Female_decrease male_decrease
+126,North Korea,-0.8,-0.7,Female_decrease male_decrease
+127,Northern Mariana Islands,-0.2,-0.3,Female_decrease male_decrease
+128,Norway,-2.6,-2.8,Female_decrease male_decrease
+129,Oman,0.6,-1.4,Female_increase male_decrease
+130,Pakistan,-0.4,-2.0,Female_decrease male_decrease
+131,Palestine,-0.8,-0.4,Female_decrease male_decrease
+132,Panama,-2.1,-4.1,Female_decrease male_decrease
+133,Papua New Guinea,-0.2,-0.5,Female_decrease male_decrease
+134,Paraguay,-0.4,-2.1,Female_decrease male_decrease
+135,Peru,-0.5,-1.3,Female_decrease male_decrease
+136,Philippines,-0.8,-0.4,Female_decrease male_decrease
+137,Poland,-0.9,-1.7,Female_decrease male_decrease
+138,Portugal,1.3,-1.0,Female_increase male_decrease
+139,Puerto Rico,-0.3,-0.4,Female_decrease male_decrease
+140,Qatar,-3.2,-0.1,Female_decrease male_decrease
+141,Romania,0.0,-0.1,Female_decrease male_decrease
+142,Russia,1.8,-0.5,Female_increase male_decrease
+143,Rwanda,0.1,-1.2,Female_increase male_decrease
+144,Saint Lucia,0.0,0.6,Female_decrease male_decrease
+145,Saint Vincent and the Grenadines,-0.8,-1.6,Female_decrease male_decrease
+146,Samoa,-0.6,-1.0,Female_decrease male_decrease
+147,SÃ£o TomÃ© and PrÃ­ncipe,-1.0,-0.2,Female_decrease male_decrease
+148,Saudi Arabia,-2.9,2.4,Female_decrease male_increase
+149,Senegal,1.1,-3.0,Female_increase male_decrease
+150,Serbia,0.2,0.1,Female_increase male_increase
+151,Seychelles,0.6,-0.2,Female_increase male_decrease
+152,Sierra Leone,-0.9,-0.5,Female_decrease male_decrease
+153,Singapore,0.3,-0.9,Female_increase male_decrease
+154,Slovakia,-0.2,-1.4,Female_decrease male_decrease
+155,Slovenia,-0.4,-1.7,Female_decrease male_decrease
+156,Solomon Islands,-0.5,-0.4,Female_decrease male_decrease
+157,Somalia,-2.1,-1.1,Female_decrease male_decrease
+158,South Africa,-2.9,-1.9,Female_decrease male_decrease
+159,South Korea,2.4,-2.3,Female_increase male_decrease
+160,South Sudan,-2.1,-1.0,Female_decrease male_decrease
+161,Spain,-1.1,-1.7,Female_decrease male_decrease
+162,Sri Lanka,-3.6,-0.6,Female_decrease male_decrease
+163,Sudan,1.0,-0.5,Female_increase male_decrease
+164,Suriname,0.4,1.2,Female_increase male_increase
+165,Swaziland,-3.1,-2.2,Female_decrease male_decrease
+166,Sweden,-2.7,-3.2,Female_decrease male_decrease
+167,Switzerland,-1.4,-1.3,Female_decrease male_decrease
+168,Syria,-1.2,-0.8,Female_decrease male_decrease
+169,Taiwan,-1.1,-3.0,Female_decrease male_decrease
+170,Tajikistan,-2.9,-2.8,Female_decrease male_decrease
+171,Tanzania,-0.7,-0.5,Female_decrease male_decrease
+172,Thailand,-1.6,-1.3,Female_decrease male_decrease
+173,The Bahamas,3.0,2.0,Female_increase male_increase
+174,The Gambia,-1.6,-0.8,Female_decrease male_decrease
+175,Timor-Leste,4.5,-0.1,Female_increase male_decrease
+176,Togo,-2.3,-0.2,Female_decrease male_decrease
+177,Tonga,-1.2,0.1,Female_decrease male_increase
+178,Trinidad and Tobago,1.3,-0.5,Female_increase male_decrease
+179,Tunisia,-2.4,-0.5,Female_decrease male_decrease
+180,Turkey,0.1,-1.9,Female_increase male_decrease
+181,Turkmenistan,-0.6,-1.2,Female_decrease male_decrease
+182,Uganda,-0.1,-2.2,Female_decrease male_decrease
+183,Ukraine,0.2,-0.8,Female_increase male_decrease
+184,United Arab Emirates,-2.3,-0.8,Female_decrease male_decrease
+185,UK,-1.4,-1.4,Female_decrease male_decrease
+186,USA,-2.2,-2.0,Female_decrease male_decrease
+187,Uruguay,-1.0,-2.0,Female_decrease male_decrease
+188,Uzbekistan,2.4,-0.6,Female_increase male_decrease
+189,Vanuatu,-1.8,-0.7,Female_decrease male_decrease
+190,Venezuela,-0.6,-0.7,Female_decrease male_decrease
+191,Vietnam,-4.4,-1.5,Female_decrease male_decrease
+192,"Virgin Islands, USA",-1.2,-1.2,Female_decrease male_decrease
+193,Yemen,-0.9,-0.7,Female_decrease male_decrease
+194,Zambia,-0.5,-0.7,Female_decrease male_decrease
+195,Zimbabwe,-2.8,-0.3,Female_decrease male_decrease
